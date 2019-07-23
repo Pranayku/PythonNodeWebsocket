@@ -1,0 +1,15 @@
+{
+  "name": "csm-web-server",
+  "version": "1.0.0",
+  "description": "A server used by csm poc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Piyush",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.5.0",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
